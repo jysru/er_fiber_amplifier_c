@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1425679316 source:/home/jeremy/Documents/iXeo/S8/informatique/projet_info/main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"generic.h"
+	"io.h"
+	"calc.h"
+
+1424435821 /home/jeremy/Documents/iXeo/S8/informatique/projet_info/equa_diff.h
+
+1425679147 /home/jeremy/Documents/iXeo/S8/informatique/projet_info/io.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"generic.h"
+
+1425420467 /home/jeremy/Documents/iXeo/S8/informatique/projet_info/func.h
+
+1425421541 source:/home/jeremy/Documents/iXeo/S8/informatique/projet_info/func.c
+	<math.h>
+
+1425679161 source:/home/jeremy/Documents/iXeo/S8/informatique/projet_info/io.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"generic.h"
+
+1425678751 /home/jeremy/Documents/iXeo/S8/informatique/projet_info/generic.h
+
+1425678459 source:/home/jeremy/Documents/iXeo/S8/informatique/projet_info/calc.c
+	<math.h>
+	"generic.h"
+
+1425678457 /home/jeremy/Documents/iXeo/S8/informatique/projet_info/calc.h
+	<math.h>
+	"generic.h"
+
+1426867327 source:/home/jeremy/Documents/iXeo/S8/info/projet_info/calc.c
+	<math.h>
+	"generic.h"
+
+1429798603 /home/jeremy/Documents/iXeo/S8/info/projet_info/generic.h
+
+1429521648 source:/home/jeremy/Documents/iXeo/S8/info/projet_info/io.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"generic.h"
+
+1429801346 source:/home/jeremy/Documents/iXeo/S8/info/projet_info/main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"generic.h"
+	"io.h"
+
+1429521625 /home/jeremy/Documents/iXeo/S8/info/projet_info/io.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"generic.h"
+
+1425678457 /home/jeremy/Documents/iXeo/S8/info/projet_info/calc.h
+	<math.h>
+	"generic.h"
+
